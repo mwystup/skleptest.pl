@@ -18,7 +18,6 @@ My tests of a sample website. I grouped the tests into several sets: <i> • [ho
   
 ### Date and time of test execution:
 
-* 14-31.08.2023 (9:00 - 16:00)
 * 04-13.09.2023 (10:00 – 15:00)
   
 ### Environment:
