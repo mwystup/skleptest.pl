@@ -1,4 +1,4 @@
-# :boom: <a id="top"> skleptest.pl - exploratory testing of the web application [Jira] </a> :boom:
+# 🏆 <a id="top"> skleptest.pl - exploratory testing of the web application [Jira] </a>
 
 My tests of a sample website. I grouped the tests into several sets: <i> • [homepage](#homepage) • [menu](#menu) • [shopping cart and ordering process](#shopping_cart_and_ordering_process) • [user account](#user_account) • [product sorting](#product_sorting) • [product pages](#product_pages) • [search](#search). </i> I found a lot of bugs.
 
